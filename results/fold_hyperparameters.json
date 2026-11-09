@@ -1,0 +1,4708 @@
+{
+ "ecapa/none/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6808916446323163,
+   "pca_components": 115
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6889393440380284,
+   "pca_components": 115
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6907218052148573,
+   "pca_components": 115
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6844085464973622,
+   "pca_components": 115
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6957581308986182,
+   "pca_components": 115
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6949447715891359,
+   "pca_components": 115
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6853371135443503,
+   "pca_components": 115
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6772613406330511,
+   "pca_components": 115
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6837255489121161,
+   "pca_components": 115
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6646877385256215,
+   "pca_components": 115
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.692594200938452,
+   "pca_components": 115
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6827135305869104,
+   "pca_components": 115
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6919577485002962,
+   "pca_components": 116
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6935760483079808,
+   "pca_components": 115
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6652032871826175,
+   "pca_components": 115
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6888801743701587,
+   "pca_components": 115
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.690991684817539,
+   "pca_components": 115
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6909128864556496,
+   "pca_components": 115
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6777378113797987,
+   "pca_components": 115
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6870132499079868,
+   "pca_components": 116
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.686049482524836,
+   "pca_components": 115
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6758445562449392,
+   "pca_components": 115
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6805509676726782,
+   "pca_components": 115
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6740467427309532,
+   "pca_components": 115
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6700268873081617,
+   "pca_components": 115
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6847464322957745,
+   "pca_components": 115
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6835498671836404,
+   "pca_components": 115
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6871872607845431,
+   "pca_components": 115
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.682290452811859,
+   "pca_components": 115
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6915041318330792,
+   "pca_components": 115
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6864385614385615,
+   "pca_components": 115
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6662252152977801,
+   "pca_components": 115
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6739069264069263,
+   "pca_components": 115
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6696183810952074,
+   "pca_components": 115
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6749943130336394,
+   "pca_components": 115
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6814735264735265,
+   "pca_components": 115
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6861771130185064,
+   "pca_components": 115
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6893247575959401,
+   "pca_components": 115
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6906050997913232,
+   "pca_components": 115
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6860514079080621,
+   "pca_components": 115
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.686986771720177,
+   "pca_components": 115
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6772065143756686,
+   "pca_components": 115
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6774915308942376,
+   "pca_components": 115
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6847377622377622,
+   "pca_components": 115
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6957159507159508,
+   "pca_components": 115
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6842850460670079,
+   "pca_components": 116
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6908110506478042,
+   "pca_components": 115
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6888061280551951,
+   "pca_components": 116
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6907933732933733,
+   "pca_components": 115
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6787757723205484,
+   "pca_components": 115
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6891858141858141,
+   "pca_components": 115
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6924766899766899,
+   "pca_components": 115
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6861807971890154,
+   "pca_components": 115
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6975449232457775,
+   "pca_components": 115
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6859925996139596,
+   "pca_components": 115
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6782432900999442,
+   "pca_components": 115
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6949314184414546,
+   "pca_components": 115
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6747400702829796,
+   "pca_components": 115
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6665898395271825,
+   "pca_components": 115
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6908583083583084,
+   "pca_components": 115
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6901428409153763,
+   "pca_components": 115
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6889068007724725,
+   "pca_components": 115
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6857634032634033,
+   "pca_components": 115
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6764820958477674,
+   "pca_components": 116
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6797131682579445,
+   "pca_components": 115
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6809332334332334,
+   "pca_components": 115
+  }
+ ],
+ "ecapa/none/random_split": [
+  {
+   "outer_fold": 0,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8857620227431549,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 1,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8616352201257861,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 2,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8420964360587002,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 3,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8789867225716282,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 4,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8817540181691126,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 5,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8733314274823707,
+   "pca_components": 113
+  },
+  {
+   "outer_fold": 6,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8776100628930816,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 7,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8640670859538785,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 8,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8836408106219427,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 9,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8821243885394828,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 10,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8532485229655041,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 11,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8618448637316563,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 12,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8705241090146751,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 13,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8976240391334731,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 14,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8918238993710691,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 15,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8843478813290135,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 16,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.86083857442348,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 17,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8960587002096435,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 18,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.893675751222921,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 19,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8604682040531098,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 20,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.876651737500794,
+   "pca_components": 113
+  },
+  {
+   "outer_fold": 21,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.869517819706499,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 22,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8878406708595387,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 23,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.887414395527603,
+   "pca_components": 112
+  },
+  {
+   "outer_fold": 24,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8705031446540881,
+   "pca_components": 112
+  }
+ ],
+ "ecapa/rested_baseline/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9658777692732917,
+   "pca_components": 124
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.970418851981352,
+   "pca_components": 125
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9689115030906077,
+   "pca_components": 125
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9672712703962704,
+   "pca_components": 125
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9655278110047847,
+   "pca_components": 125
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9689115030906077,
+   "pca_components": 125
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9689969405594405,
+   "pca_components": 124
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.967481789044289,
+   "pca_components": 125
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9736997703788749,
+   "pca_components": 124
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9654794599875117,
+   "pca_components": 125
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9652916904887844,
+   "pca_components": 124
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9671686972853019,
+   "pca_components": 125
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9653336009750483,
+   "pca_components": 124
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9656761599718691,
+   "pca_components": 124
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9636276081356601,
+   "pca_components": 125
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9671686972853019,
+   "pca_components": 124
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9690851142017187,
+   "pca_components": 124
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.967458479020979,
+   "pca_components": 125
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9654794599875117,
+   "pca_components": 124
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9705594405594405,
+   "pca_components": 125
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9716915376290377,
+   "pca_components": 125
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.965642630150682,
+   "pca_components": 124
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9705120920745921,
+   "pca_components": 125
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9680645396270396,
+   "pca_components": 124
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.965642630150682,
+   "pca_components": 124
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9709549825174826,
+   "pca_components": 125
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9641571969696969,
+   "pca_components": 124
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9745643702058174,
+   "pca_components": 124
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9671686972853019,
+   "pca_components": 125
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9689084873459872,
+   "pca_components": 124
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9679254079254079,
+   "pca_components": 124
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.965642630150682,
+   "pca_components": 124
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9677014652014652,
+   "pca_components": 124
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.965642630150682,
+   "pca_components": 124
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.965642630150682,
+   "pca_components": 124
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9661863136863138,
+   "pca_components": 124
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9667518702058174,
+   "pca_components": 124
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9652367186906661,
+   "pca_components": 124
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9674159500325545,
+   "pca_components": 124
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9657196969696968,
+   "pca_components": 125
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9656713459524241,
+   "pca_components": 124
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9656730769230769,
+   "pca_components": 124
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9655014090656506,
+   "pca_components": 124
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9664335664335665,
+   "pca_components": 124
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9679487179487178,
+   "pca_components": 124
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 0.1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9683188741083477,
+   "pca_components": 124
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9704462530628575,
+   "pca_components": 125
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9720313346479392,
+   "pca_components": 125
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9646478521478523,
+   "pca_components": 124
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9671453872619917,
+   "pca_components": 125
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 0.1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.968946053946054,
+   "pca_components": 125
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9679487179487178,
+   "pca_components": 124
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9654811909581646,
+   "pca_components": 124
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9674159500325545,
+   "pca_components": 125
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9669719973009446,
+   "pca_components": 124
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9703091013733429,
+   "pca_components": 124
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9704266546057589,
+   "pca_components": 125
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9642231285226641,
+   "pca_components": 124
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9654038030682767,
+   "pca_components": 124
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9664335664335665,
+   "pca_components": 124
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9641792303663868,
+   "pca_components": 124
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9719057310848356,
+   "pca_components": 124
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9679487179487178,
+   "pca_components": 124
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9688288080079126,
+   "pca_components": 125
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9688288080079126,
+   "pca_components": 125
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9679487179487178,
+   "pca_components": 124
+  }
+ ],
+ "ecapa/rested_baseline/random_split": [
+  {
+   "outer_fold": 0,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9736897274633123,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 1,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9703563941299791,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 2,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.970020964360587,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 3,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9763871418588399,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 4,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.969916142557652,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 5,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9789641700019059,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 6,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9737945492662474,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 7,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9694758909853249,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 8,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9705310971348707,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 9,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9703913347309573,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 10,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9722276221332825,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 11,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9677987421383648,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 12,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9763522012578616,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 13,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9742697414395527,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 14,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9828232005590497,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 15,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9725125468521696,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 16,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9741299790356394,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 17,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9741299790356394,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 18,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9666876310272536,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 19,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9703913347309573,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 20,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9701956673654786,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 21,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.970020964360587,
+   "pca_components": 120
+  },
+  {
+   "outer_fold": 22,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9744654088050314,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 23,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9712718378756116,
+   "pca_components": 121
+  },
+  {
+   "outer_fold": 24,
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9666876310272536,
+   "pca_components": 121
+  }
+ ],
+ "wavlm/none/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7638976032259615,
+   "pca_components": 194
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7570294094307253,
+   "pca_components": 194
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7678220258611407,
+   "pca_components": 194
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7520288428676587,
+   "pca_components": 194
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7802807633946828,
+   "pca_components": 195
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7614432390963529,
+   "pca_components": 194
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7555474021592443,
+   "pca_components": 194
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.75325761409643,
+   "pca_components": 194
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7820232044765627,
+   "pca_components": 195
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7754292690503906,
+   "pca_components": 194
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.778189803330837,
+   "pca_components": 194
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7607161477509573,
+   "pca_components": 194
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7795837970758928,
+   "pca_components": 195
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7640182078965957,
+   "pca_components": 194
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7751674203989111,
+   "pca_components": 194
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7586622756970851,
+   "pca_components": 194
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7659054681734867,
+   "pca_components": 194
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7649153094712304,
+   "pca_components": 194
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7741039468354375,
+   "pca_components": 194
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7554342642007116,
+   "pca_components": 194
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7604449442919102,
+   "pca_components": 194
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7742054717724887,
+   "pca_components": 194
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7639829085388297,
+   "pca_components": 194
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7621009308673782,
+   "pca_components": 194
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7702531155219197,
+   "pca_components": 194
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7615653261212472,
+   "pca_components": 194
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7873146695684886,
+   "pca_components": 194
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7816042742087633,
+   "pca_components": 195
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7560626272929887,
+   "pca_components": 194
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7603101339450025,
+   "pca_components": 194
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7682509157509158,
+   "pca_components": 194
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7740354960312738,
+   "pca_components": 194
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.757910422910423,
+   "pca_components": 194
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7725864820822597,
+   "pca_components": 194
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7756544857215026,
+   "pca_components": 194
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7609548784548785,
+   "pca_components": 194
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7775239977647939,
+   "pca_components": 194
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7866619262003777,
+   "pca_components": 194
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.768646866020933,
+   "pca_components": 194
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7797244112429361,
+   "pca_components": 194
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7747857567336651,
+   "pca_components": 194
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7726278844240246,
+   "pca_components": 193
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7658121053280307,
+   "pca_components": 194
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7713136863136864,
+   "pca_components": 194
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7739377289377289,
+   "pca_components": 194
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.760249772375656,
+   "pca_components": 194
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7597518102987466,
+   "pca_components": 194
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7729261828316718,
+   "pca_components": 194
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7703338328338327,
+   "pca_components": 194
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7590534638109265,
+   "pca_components": 194
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7803155178155178,
+   "pca_components": 194
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7649117549117548,
+   "pca_components": 194
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7837336760794067,
+   "pca_components": 194
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7633339771644956,
+   "pca_components": 195
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7645286127615886,
+   "pca_components": 194
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7714271398033593,
+   "pca_components": 194
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.76727548256627,
+   "pca_components": 195
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7740958858534908,
+   "pca_components": 194
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.775644762212629,
+   "pca_components": 195
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7726789876789877,
+   "pca_components": 194
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7656092166721585,
+   "pca_components": 194
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7439281241146913,
+   "pca_components": 194
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7738911088911088,
+   "pca_components": 194
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7615877792743465,
+   "pca_components": 194
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.75515421284078,
+   "pca_components": 194
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7772569097569099,
+   "pca_components": 194
+  }
+ ],
+ "wavlm/none/random_split": [
+  {
+   "outer_fold": 0,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8392884823073503,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 1,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8324109014675052,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 2,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8111111111111111,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 3,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8372955974842767,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 4,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8383018867924529,
+   "pca_components": 182
+  },
+  {
+   "outer_fold": 5,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8308334921542467,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 6,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8457442348008385,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 7,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8132914046121593,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 8,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.818881900768693,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 9,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8571348707197763,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 10,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8117467124070897,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 11,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8223060796645705,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 12,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8394129979035639,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 13,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8475751222921035,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 14,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.845988819007687,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 15,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8460444063274253,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 16,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8216352201257863,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 17,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8488469601677149,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 18,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8573095737246682,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 19,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8354577218728163,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 20,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8077307667873704,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 21,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8390775681341719,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 22,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8549685534591195,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 23,
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.8300279524807828,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 24,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7994479385045422,
+   "pca_components": 180
+  }
+ ],
+ "wavlm/rested_baseline/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9016259669711161,
+   "pca_components": 193
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9015195270129481,
+   "pca_components": 193
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9011462838071175,
+   "pca_components": 194
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8998386153320365,
+   "pca_components": 193
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9006320651693848,
+   "pca_components": 194
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8981385949785332,
+   "pca_components": 193
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8985524015458226,
+   "pca_components": 193
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9015586661145871,
+   "pca_components": 194
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9046117374195731,
+   "pca_components": 194
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8997538319216932,
+   "pca_components": 194
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8957070134264888,
+   "pca_components": 193
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8964941259916221,
+   "pca_components": 193
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9041667455124724,
+   "pca_components": 193
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9027598449218146,
+   "pca_components": 193
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8997538319216932,
+   "pca_components": 193
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9072415036139997,
+   "pca_components": 193
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9045625193410934,
+   "pca_components": 193
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8985050530609741,
+   "pca_components": 193
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8982386804065416,
+   "pca_components": 193
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8969899015458227,
+   "pca_components": 193
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8995244290219251,
+   "pca_components": 194
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9000231921910536,
+   "pca_components": 193
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9000202045761256,
+   "pca_components": 193
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8941453502637712,
+   "pca_components": 193
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9015157295044866,
+   "pca_components": 193
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8934933980493192,
+   "pca_components": 193
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8974510794883994,
+   "pca_components": 192
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9091385071899779,
+   "pca_components": 193
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8948842775067736,
+   "pca_components": 193
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8979258296528034,
+   "pca_components": 193
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8952022977022978,
+   "pca_components": 193
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8998832668179194,
+   "pca_components": 193
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8902281052281052,
+   "pca_components": 193
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8983907295044865,
+   "pca_components": 193
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8983907295044865,
+   "pca_components": 193
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8890484515484516,
+   "pca_components": 193
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.901996728029955,
+   "pca_components": 192
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9061092821425092,
+   "pca_components": 193
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9012112491462453,
+   "pca_components": 193
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9030943327159336,
+   "pca_components": 193
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8953150089287659,
+   "pca_components": 193
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8941093170841367,
+   "pca_components": 193
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8951405349024771,
+   "pca_components": 193
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8951789876789877,
+   "pca_components": 193
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8921020646020648,
+   "pca_components": 193
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9012112491462453,
+   "pca_components": 193
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9012352876077838,
+   "pca_components": 193
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8996727876077838,
+   "pca_components": 193
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.902838827838828,
+   "pca_components": 193
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8981392170117131,
+   "pca_components": 193
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8937337662337663,
+   "pca_components": 193
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8952722277722278,
+   "pca_components": 194
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8956237401610597,
+   "pca_components": 193
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9010652874063616,
+   "pca_components": 194
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.894930744692687,
+   "pca_components": 193
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.902894655781598,
+   "pca_components": 193
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8981116733098204,
+   "pca_components": 194
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8985589914459335,
+   "pca_components": 193
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8998384566475576,
+   "pca_components": 193
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8983491508491509,
+   "pca_components": 194
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.896914081152838,
+   "pca_components": 193
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.901641542537065,
+   "pca_components": 193
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8964985014985014,
+   "pca_components": 193
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.901641542537065,
+   "pca_components": 193
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9001030809986034,
+   "pca_components": 193
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8921953046953046,
+   "pca_components": 193
+  }
+ ],
+ "wavlm/rested_baseline/random_split": [
+  {
+   "outer_fold": 0,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9362178387650084,
+   "pca_components": 178
+  },
+  {
+   "outer_fold": 1,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9244025157232704,
+   "pca_components": 178
+  },
+  {
+   "outer_fold": 2,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9322851153039832,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 3,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9343466107617051,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 4,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9333403214535292,
+   "pca_components": 181
+  },
+  {
+   "outer_fold": 5,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.933960675941808,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 6,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9328301886792453,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 7,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9300628930817612,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 8,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9193920335429769,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 9,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9425646401118101,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 10,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9367838765008576,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 11,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9168553459119497,
+   "pca_components": 178
+  },
+  {
+   "outer_fold": 12,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9269601677148847,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 13,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9378895877009084,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 14,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9331656184486373,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 15,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9402919128390828,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 16,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9285115303983229,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 17,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9382809224318658,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 18,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9180712788259958,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 19,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9335709294199861,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 20,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9336058700209644,
+   "pca_components": 180
+  },
+  {
+   "outer_fold": 21,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.929392033542977,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 22,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9423899371069183,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 23,
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9467784765897974,
+   "pca_components": 179
+  },
+  {
+   "outer_fold": 24,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.919496855345912,
+   "pca_components": 179
+  }
+ ],
+ "egemaps/none/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6328923460453311,
+   "pca_components": 39
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6575397385265805,
+   "pca_components": 39
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6466370119844129,
+   "pca_components": 39
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6645282896927635,
+   "pca_components": 39
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6543728048478253,
+   "pca_components": 39
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6389990040839243,
+   "pca_components": 39
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6573379033247454,
+   "pca_components": 39
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.650415554839897,
+   "pca_components": 39
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6339733859976397,
+   "pca_components": 39
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6277723008985283,
+   "pca_components": 39
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6473921250339636,
+   "pca_components": 39
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6537708096869527,
+   "pca_components": 39
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6422905189730792,
+   "pca_components": 39
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6390727849948195,
+   "pca_components": 39
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6311690028807566,
+   "pca_components": 39
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6411332816321033,
+   "pca_components": 39
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6426926149753623,
+   "pca_components": 39
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6636755076064287,
+   "pca_components": 39
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6362382237227584,
+   "pca_components": 39
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6610454238743714,
+   "pca_components": 39
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6392412795174479,
+   "pca_components": 39
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6377085799972191,
+   "pca_components": 39
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6630795301190038,
+   "pca_components": 39
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6494811602870814,
+   "pca_components": 39
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6387497554615091,
+   "pca_components": 39
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6500476771035982,
+   "pca_components": 39
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6450518664779865,
+   "pca_components": 39
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6480235454362886,
+   "pca_components": 39
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6305537192688606,
+   "pca_components": 39
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.642547567564015,
+   "pca_components": 39
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6588786213786213,
+   "pca_components": 39
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6346513743086799,
+   "pca_components": 39
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6530977355977357,
+   "pca_components": 39
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.639356074066895,
+   "pca_components": 39
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6376327947913278,
+   "pca_components": 39
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6537271062271062,
+   "pca_components": 39
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6424076864895181,
+   "pca_components": 39
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6475279359748736,
+   "pca_components": 39
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6477799954456964,
+   "pca_components": 39
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.644564666950156,
+   "pca_components": 39
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6421418184151393,
+   "pca_components": 39
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6488845836509617,
+   "pca_components": 39
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6392563948369815,
+   "pca_components": 39
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6636147186147188,
+   "pca_components": 39
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6504345654345653,
+   "pca_components": 39
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6463752841725643,
+   "pca_components": 39
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6487213321377207,
+   "pca_components": 39
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6611428299777671,
+   "pca_components": 39
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6601448551448551,
+   "pca_components": 39
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6532561993100583,
+   "pca_components": 39
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6471287046287046,
+   "pca_components": 39
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.6435056610056609,
+   "pca_components": 39
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6421745445917966,
+   "pca_components": 39
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6527077754989185,
+   "pca_components": 39
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.628577229628492,
+   "pca_components": 39
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6390970611913351,
+   "pca_components": 39
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6440424018138893,
+   "pca_components": 39
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6430312120568742,
+   "pca_components": 39
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6423276638504783,
+   "pca_components": 39
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.648573926073926,
+   "pca_components": 39
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6395641061754574,
+   "pca_components": 39
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6566523484807067,
+   "pca_components": 39
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.649464701964702,
+   "pca_components": 39
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6580623715698343,
+   "pca_components": 39
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.651821152865929,
+   "pca_components": 39
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 1,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.6468531468531469,
+   "pca_components": 39
+  }
+ ],
+ "egemaps/none/random_split": [
+  {
+   "outer_fold": 0,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7624331363954007,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 1,
+   "svc__C": 100,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7594549266247379,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 2,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.6986163522012578,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 3,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7589937106918239,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 4,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7674213836477988,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 5,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7658611269932025,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 6,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7841090146750523,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 7,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7714465408805031,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 8,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7309503843466107,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 9,
+   "svc__C": 100,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7658211041229909,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 10,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7657004002287021,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 11,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7632285115303983,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 12,
+   "svc__C": 100,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7655765199161426,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 13,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7874563242487771,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 14,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7620614954577218,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 15,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7754192872117399,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 16,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7319077568134172,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 17,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7849895178197065,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 18,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7870510132774284,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 19,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7693640810621943,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 20,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7777425195349723,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 21,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7645702306079665,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 22,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.789433962264151,
+   "pca_components": 39
+  },
+  {
+   "outer_fold": 23,
+   "svc__C": 100,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7660796645702306,
+   "pca_components": 38
+  },
+  {
+   "outer_fold": 24,
+   "svc__C": 100,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7555695317959469,
+   "pca_components": 38
+  }
+ ],
+ "egemaps/rested_baseline/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.917581015584747,
+   "pca_components": 43
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.897393333396623,
+   "pca_components": 43
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9106660606506207,
+   "pca_components": 43
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8953279396042554,
+   "pca_components": 43
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8985295039257377,
+   "pca_components": 44
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9070809484448187,
+   "pca_components": 43
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9007933075696233,
+   "pca_components": 43
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9030730125138021,
+   "pca_components": 43
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9213888384970476,
+   "pca_components": 43
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9184848838990141,
+   "pca_components": 43
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9021415002126023,
+   "pca_components": 43
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9042424939808089,
+   "pca_components": 43
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.90562365846093,
+   "pca_components": 43
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9042424939808089,
+   "pca_components": 43
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9126836541833105,
+   "pca_components": 43
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9024881080158969,
+   "pca_components": 43
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9056578872979599,
+   "pca_components": 43
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9030730125138021,
+   "pca_components": 43
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9033033932405494,
+   "pca_components": 43
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9014467166605324,
+   "pca_components": 43
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9006699261977149,
+   "pca_components": 43
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9022000235352061,
+   "pca_components": 43
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9004429287817445,
+   "pca_components": 43
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8999953609986505,
+   "pca_components": 43
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9044248603473857,
+   "pca_components": 43
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8998829733862628,
+   "pca_components": 43
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8953216021294619,
+   "pca_components": 43
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9128219681002772,
+   "pca_components": 43
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.907812783340572,
+   "pca_components": 43
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9060104040696146,
+   "pca_components": 43
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8978862803862804,
+   "pca_components": 43
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9028623603473858,
+   "pca_components": 43
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8997044622044623,
+   "pca_components": 43
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9059400118625373,
+   "pca_components": 43
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9011027411879239,
+   "pca_components": 43
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9000308025308026,
+   "pca_components": 43
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9036694192602285,
+   "pca_components": 43
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9067718723626814,
+   "pca_components": 43
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9060109066074306,
+   "pca_components": 43
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8937591021294619,
+   "pca_components": 43
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.900861421471447,
+   "pca_components": 43
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.896877660450226,
+   "pca_components": 43
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9013926987529965,
+   "pca_components": 43
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9042732267732267,
+   "pca_components": 43
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9027347652347653,
+   "pca_components": 43
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9060109066074306,
+   "pca_components": 43
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9021188611528851,
+   "pca_components": 43
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.904033306356804,
+   "pca_components": 43
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9027580752580752,
+   "pca_components": 43
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9052831968172208,
+   "pca_components": 43
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.8969771894771895,
+   "pca_components": 43
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8961563436563436,
+   "pca_components": 43
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.8953185428404666,
+   "pca_components": 43
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9043771741154891,
+   "pca_components": 43
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.902527085199883,
+   "pca_components": 43
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.904175726611434,
+   "pca_components": 43
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9104753809694621,
+   "pca_components": 43
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9036960259082975,
+   "pca_components": 43
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9086655368742707,
+   "pca_components": 43
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9023667998667998,
+   "pca_components": 43
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9014157111091027,
+   "pca_components": 43
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9093161868535002,
+   "pca_components": 43
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9014901764901765,
+   "pca_components": 43
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9062392637765772,
+   "pca_components": 43
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 0.1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.908519483556797,
+   "pca_components": 43
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9103013653013653,
+   "pca_components": 43
+  }
+ ],
+ "egemaps/rested_baseline/random_split": [
+  {
+   "outer_fold": 0,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9322136458928911,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 1,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9248218029350104,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 2,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9153878406708597,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 3,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9206778476589796,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 4,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.92937106918239,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 5,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9370710247125341,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 6,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.930607966457023,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 7,
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9252830188679246,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 8,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9166037735849057,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 9,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9356673654786862,
+   "pca_components": 42
+  },
+  {
+   "outer_fold": 10,
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.9209122673273618,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 11,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9116142557651992,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 12,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9280503144654088,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 13,
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9284346610761706,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 14,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9320335429769392,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 15,
+   "svc__C": 10,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9212203798996251,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 16,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9347169811320754,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 17,
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9258280922431867,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 18,
+   "svc__C": 1,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9222990915443745,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 19,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9215234102026555,
+   "pca_components": 42
+  },
+  {
+   "outer_fold": 20,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9205457086589164,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 21,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9220545073375263,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 22,
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.9362683438155137,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 23,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9361076170510134,
+   "pca_components": 43
+  },
+  {
+   "outer_fold": 24,
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.9267085953878407,
+   "pca_components": 43
+  }
+ ],
+ "speech_duration (supplementary)/none/loso": [
+  {
+   "fold": 1,
+   "test_speaker": "S01",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 2,
+   "test_speaker": "S02",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 3,
+   "test_speaker": "S03",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7307692307692308
+  },
+  {
+   "fold": 4,
+   "test_speaker": "S04",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7230769230769232
+  },
+  {
+   "fold": 5,
+   "test_speaker": "S05",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7230769230769232
+  },
+  {
+   "fold": 6,
+   "test_speaker": "S06",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7307692307692308
+  },
+  {
+   "fold": 7,
+   "test_speaker": "S07",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 8,
+   "test_speaker": "S08",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 9,
+   "test_speaker": "S09",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 10,
+   "test_speaker": "S10",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 11,
+   "test_speaker": "S11",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 12,
+   "test_speaker": "S12",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 13,
+   "test_speaker": "S13",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 14,
+   "test_speaker": "S14",
+   "svc__C": 10,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 15,
+   "test_speaker": "S15",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 16,
+   "test_speaker": "S16",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 17,
+   "test_speaker": "S17",
+   "svc__C": 0.1,
+   "svc__gamma": 0.1,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 18,
+   "test_speaker": "S18",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 19,
+   "test_speaker": "S19",
+   "svc__C": 0.1,
+   "svc__gamma": 0.1,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 20,
+   "test_speaker": "S20",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 21,
+   "test_speaker": "S21",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 22,
+   "test_speaker": "S22",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 23,
+   "test_speaker": "S23",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7230769230769231
+  },
+  {
+   "fold": 24,
+   "test_speaker": "S24",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 25,
+   "test_speaker": "S25",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 26,
+   "test_speaker": "S26",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.723076923076923
+  },
+  {
+   "fold": 27,
+   "test_speaker": "S27",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 28,
+   "test_speaker": "S28",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538461
+  },
+  {
+   "fold": 29,
+   "test_speaker": "S29",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 30,
+   "test_speaker": "S30",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7307692307692307
+  },
+  {
+   "fold": 31,
+   "test_speaker": "S31",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615384
+  },
+  {
+   "fold": 32,
+   "test_speaker": "S32",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 33,
+   "test_speaker": "S33",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 34,
+   "test_speaker": "S34",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 35,
+   "test_speaker": "S35",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 36,
+   "test_speaker": "S36",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 37,
+   "test_speaker": "S37",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 38,
+   "test_speaker": "S38",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 39,
+   "test_speaker": "S39",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 40,
+   "test_speaker": "S40",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 41,
+   "test_speaker": "S41",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 42,
+   "test_speaker": "S42",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 43,
+   "test_speaker": "S43",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 44,
+   "test_speaker": "S44",
+   "svc__C": 1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7307692307692308
+  },
+  {
+   "fold": 45,
+   "test_speaker": "S45",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 46,
+   "test_speaker": "S46",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 47,
+   "test_speaker": "S47",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 48,
+   "test_speaker": "S48",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 49,
+   "test_speaker": "S49",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 50,
+   "test_speaker": "S50",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 51,
+   "test_speaker": "S51",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 52,
+   "test_speaker": "S52",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7307692307692308
+  },
+  {
+   "fold": 53,
+   "test_speaker": "S53",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7307692307692308
+  },
+  {
+   "fold": 54,
+   "test_speaker": "S54",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 55,
+   "test_speaker": "S55",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7307692307692308
+  },
+  {
+   "fold": 56,
+   "test_speaker": "S56",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 57,
+   "test_speaker": "S57",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 58,
+   "test_speaker": "S58",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 59,
+   "test_speaker": "S59",
+   "svc__C": 0.1,
+   "svc__gamma": "scale",
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 60,
+   "test_speaker": "S60",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 61,
+   "test_speaker": "S61",
+   "svc__C": 100,
+   "svc__gamma": 0.001,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 62,
+   "test_speaker": "S62",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7461538461538462
+  },
+  {
+   "fold": 63,
+   "test_speaker": "S63",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 64,
+   "test_speaker": "S64",
+   "svc__C": 1,
+   "svc__gamma": 0.1,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 65,
+   "test_speaker": "S65",
+   "svc__C": 1,
+   "svc__gamma": 0.1,
+   "inner_uar": 0.7384615384615385
+  },
+  {
+   "fold": 66,
+   "test_speaker": "S66",
+   "svc__C": 10,
+   "svc__gamma": 0.01,
+   "inner_uar": 0.7384615384615385
+  }
+ ]
+}

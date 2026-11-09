@@ -1,0 +1,137 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+E:\No Folder\vigil\.venv\Lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in E:\No Folder\vigil\pretrained_models\whisper\models--Systran--faster-whisper-small.en. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+S01_res Hello, my name is Rocky, pack my box with five dozen liquor jugs. Glib jugs, quiz, nims before the match. Crazy Frederick brought a very expensive jewel.
+S01_fat Hello, my name is Rocky pack my box with five dozen liquor jugs Glib jocks quiz nims before the match Crazy Frederick brought a very expensive jewel
+S02_res Hi, my name is Arashka. Packed my box with 5 dozen liquor jars, flip jocks, quiz nymphs before the match. Tracy Frederick bought a very expensive jewel.
+S02_fat Hi, my name is Agar Shah. I packed my box, picked 5 ,000 liquid jogs, liquid jogs, cozneums before the match. Daisy Frederick bought a very expensive shoe.
+S03_res Hi my name is Deepak. Pat my box with five does liquid jugs, blip jugs, squares then before the match. Crazy Patrick bought a very expensive drink.
+S03_fat Hi, my name is Deepak, packed my box with 5 dozen liquid jugs, glib jogs quiz nims before the match, crazy fiddrick bought a very expensive jewellery.
+S04_res Hello, my name is Poorabniggy, packed my bag with 5 dozen liquor jugs, glib jog quiz name before the match, Crazy Patrick bought a very expensive joi.
+S04_fat Hi, my name is Poorabniggy. Pack my bag with five dozen liquor jugs. Glib jokes whose names before the match. Crazy Frederick bought a expensive jewel.
+S05_res Hi, my name is Odwashi, packed my box with five dozen liquor zerks, lived jogs, squeezed nims before the match, Crazy Frederick brought a very expensive trail.
+S05_fat Hello my name is Abdullah. Back on a box with five desert liquor jugs. Glib jocks quiz, named before the match. Crazy Frederick bought a very expensive jewel.
+S06_res Hi, my name is Mayank Thapur. Back in my box with 5 ,000 -liquor jugs. Glib jugs squeeze nims before the match. Crazy Frederick bought a very expensive jule.
+S06_fat Hi, my name is Main Kapoor. Pat my box with 5 dozen Liquor Chugs. We lived your squeeze names before the match. Crazy Frederick bought a very expensive jew.
+S07_res Hello, my name is Roksha Dovra. Back my box with 5 dozen liquor jocks, clip jocks, quiz nymphs before the match. Freezy Perjek bought a very expensive 12.
+S07_fat Hi, my name is Rakhshatubra. At my box with five dozen liquor chalks, click chalks with nymphs before the match. Crazy Frederick bought a very expensive jar.
+S08_res Hello, my name is Akshata. Pack my box with five days of liquid chucks, glib jocks, squeeze nims before the match. Crazy Frederick bought a very expensive jewelry.
+S08_fat Hello, my name is Akshata Back my box with five dozen liquid chucks Glib chocks, square snips before the match Crazy fritter bought a very expensive chute
+S09_res Hi, my name is Rohan, at my box with 5 ,000 Lika Jog, Glib Jog quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S09_fat Hi, my name is Rohan, at my box with 5 ,000 Lika Jog, Glib Jog quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S10_res Hi, my name is Shreya. Pack my box with 5 dozen liquid jugs, glib jugs squares, nymphs before the match, crazy frederick pot, a very expensive drink.
+S10_fat Hi, my name is Shrek. Pac -Man talks with 5 ,000 little jogs. Lip Jogs. Quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S11_res Hi my name is Radhika at my box with five dozen liquor jerks glib jocks quizzed limbs before the match crazy fat rig bought a very expensive jewel
+S11_fat Hello my name is Radhika. Packed my box with five dozen liquor jocks. Glib jocks raised limbs before the match. Crazy fat cake bought a very expensive jewel.
+S12_res Hi, my name is Soman. Pack my box with five dozen liquor jugs, glib jocks, quiz nims before the match. Crazy Frederick bought a very expensive joule.
+S12_fat Hi, my name is Suwan. Pack my box with five dozen liquor jugs, glib jugs, quiz nims. Before the match, Crazy Frederick bought a very expensive Joomu.
+S13_res Hi, my name is Urvashi. Pack my box with five dozen liquor jugs. Flip jocks, squeeze nymphs before the match. Crazy Frederick brought a very expensive jewel.
+S13_fat Hi, my name is Odwashi, packed my box with five dozen liquor zerks, lived jogs, squeezed nims before the match, Crazy Frederick brought a very expensive trail.
+S14_res Hello, my name is Aish, write my box with 5 ,000 liquor jogs, glib jogs, quiz nims, before the match. Crazy Frederick bought a very expensive jewel.
+S14_fat Hi, my name is Arish. Pack my box with 5 dozen liquor jocks. Big jocks, queasy names before the match. Queasy frederick bottle, very expensive jewel.
+S15_res Hello, my name is Rakibul, pack my box with 5 dozen liquor jugs, glip chalks, quiz nines before the match crazy, Frederick brought a very expensive jewel.
+S15_fat Hi my name is Rakivul. Pack my box with five dozen liquor jugs. Glib jocks quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S16_res Hello, my name is Aayush, at my box with 5 dozen little jerks, flipchops with nymphs before the match, Crazy Patrick brought a very expensive swell.
+S16_fat Hello, my name is Ayush, packed my box with 5 dozen liquor jerks, glib jogs quays, nymphs before the match, crazy fadric brought a very expensive shelf.
+S17_res Hello, my name is Mayank, pack my box with 5 ,000 liquor jugs, the lip jog squares, nims. Before the match, KZ Frederick bought a very expensive jewel.
+S17_fat Hello, my name is Kavyansh. Pack my box with 5 dozen liquor jugs. I built up jugs for his nymphs before the match. Crazy factory bought a very expensive jewel.
+S18_res Hello, my name is Amane. Back my box with 5 dozen liquor jogs. Glib jogs caused numb before the match. Crazy Patrick bought a very expensive jewel.
+S18_fat Hello my name is Amanath. Pack my box with five dozen liquor jugs, glib jugs, squeeze, numbs before the match. Crazy Patrick bought a very expensive jewel.
+S19_res Hi, my name is Ashish, pack my box with 5 dozen liquid shucks, clip jocks, quiz nips before the match, crazy fat trick pot of very expensive joel.
+S19_fat Hi, my name is Ashish. Pack my box with 5 dozen liquor chucks. Glib chucks quiz nims before the match. Crazy Fettrick bought a very expensive jewel.
+S20_res Hi, my name is Matri. Pack my box with 5 ,000 liquor jugs, glib jocks, quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S20_fat Hi, my name is Madhi. Back my box with fighters and licker chucks, clip chocks, quiz nims before the match. Crazy Frederick bought a very expensive jewel.
+S21_res Hello, my name is Aruhi, packed by box with five dozen liquor jugs, glib jog squares, nymphs before the match, crazy Frederick bought a very expensive jewel.
+S21_fat Hi, my name is Aruhi, packed my box with five dozen liquor jugs, club jugs, squares, nymphs before the match. Crazy, frederick, what a very expensive
+S22_res Hi, my name is Ayush. Packed my box with 5 dozen liquor jugs, glib jugs, quiz and emphasis before the match. Crazy Frederick bought a very expensive jewel.
+S22_fat Hi, my name is Ayush, packed my box with 5 dozen bigger jerks, glib jerks, quiz nymphus before the match, Krazy Frederick brought a very expensive jewel.
+S23_res Hi, my name is Colchink Ma. Tack my box with five dozen liquor trucks. Lip jokes, quiz snips, before the match. Crazy Fredrick bout a very expensive jewel.
+S23_fat Hi, my name is Gulshan, pack my bags with 5 ,000 liquor, drugs, lip shows, Christmas before the match. Crazy, Frederick, but a very expensive jewelry.
+S24_res hello my name is Ashima pack my box with five dozen liquid jugs glib jugs squeeze nymphs before the match Glacy Fettrick bought a very expensive jewel
+S24_fat hello my name is Rashi Maak. Check my box with five dish and liquid jugs. Glib jugs quiz nims before the match. Creasy fat rip bought a very expensive chip.
+S25_res Hi, hello. My name is Tanvi. Pack my box with 5 dozen Liquor Jugs, Gliv Jog, Squeeze Nymphs before the match. Crazy Frederick bought me, bought a very expensive jewelry.
+S25_fat Hi, hello. My name is Thambi. Packed my box with 5 dozen liquor jugs, glib jocks, quiz, nims before the match. Crazy Frederick bought a very expensive jule.
+S26_res Hi, my name is Wanshika. Pack my box with 5 dozen liquor jugs, clip jugs, squeeze nunes. Before the match, Crazy Frederick bought a very expensive jewel.
+S26_fat Hi, my name is Vanshika. Pack my box with 5 ,000 liquor jugs. Glib jogs quiz. Nymphs before the match. Crazy Frederick bought a very expensive jewel.
+S27_res Hi, my name is Vivek Malik. Back my box with five dozen little chucks. Glip chucks with names before the match. Crazy Frederick bought a very expensive jewel.
+S27_fat Hi, my name is Vivek Malek, back my box with five dozen Rika jugs, glib jugs, glorious nymphs, before the match, crazy Frederick, what a very expensive jewel.
+S28_res Hello, my name is Tipendra. Back my box with 5 doors and liquid jugs. Glee jokes, quiz nymphs before the match. Crazy fadrick bought a very expensive jewel.
+S28_fat Hello, my name is Tipendra. Back my box with 5 doors and liquid jugs. Glee jokes, quiz nymphs before the match. Crazy fadrick bought a very expensive jewel.
+S29_res Hi, my name is Hritti Agarwal. Pack my box with 5 dozen liquid jogs, glib jogs, quiz nymphs before the match. Crazy Frederick bought a very expensive drill.
+S29_fat Hi, my name is Hrithi Agarwal, packed my box with 5 dozen liquid jogs, glib jogs quiz memes before the match, Crazy Frederick bought a very expensive drill.
+S30_res Hi my name is Amisham, pack my box with 5 dozen liquor jugs, glip jogs, quiz, nymphs before the match, crazy Frederick bought a very expensive jewel.
+S30_fat Hello my name is Amisha. Packed my box with five dozen liquor jocks, lip jocks, quiz, nymphs before the match. Crazy Frederick bought a very expensive jewel.
+S31_res Hey, my name is Zave Back my box with five dozen liquor jugs Lip jugs quick nims before the match crazy frederick boughs are very expensive too
+S31_fat Hey, my name is Zeev. Check my box with 5 dozen liquor jugs, lip jugs, quick nymphs before the match. Crazy Patrick bout a very expensive joke.
+S32_res Hi my name is Tanvi. Pack my bag with five dozen liquid jogs, clip jogs, quiz, nims before the match. Crazy Frederick brought a very expensive jewel.
+S32_fat Hi, hello, my name is Tanvi. Pack my bag with 5 dozen liquid jogs, glipped jogs, quiz, rims before the match. Crazy Frederick plot are very expensive too.
+S33_res Hey, my name is Navdeep, pack my box with 5 ,000 liquor jugs, lip jugs, quick names before the match, crazy flat drink bottle, very expensive too.
+S33_fat Hey my name is Navdeep, pack my balls with 5 dozen liquor jugs, glib jogs, quick nims before the match, crazy fat trick, vault a very expensive job.
+S34_res Hello, my name is Nishchika Goswami. Pack my box with 5 dozen liquor jugs. Glib jugs quiz nymphs before the match. Crazy Frederick bought a very expensive jewel.
+S34_fat Hello, my name is Nishigoswami, I pack my box with 5 dozen liquid jugs. Glip jugs, quiz nips before the match, Crazy Frederick bought a very expensive jewel.
+S35_res Hi, my name is Deepanshi. Pack my box with five dozen liquid jugs. Glib jugs quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S35_fat Hi my name is Deepanshi. Pack my box with five dozen liquid jocks. Glib jocks quiz nims before the match. Crazy Frederick bought a very expensive jug.
+S36_res Hello, my name is Tanvi, pack my box with 5 dozen liquor trucks, sleep chokes cruise names before the match, Crazy Frederick Port, a very expensive jewel.
+S36_fat Hello, my name is Tanvi. Pack my box with 5 dozen liquor jugs. Glabe Jog Squares names before the match. Crazy Frederick bought a very expensive jewel.
+S37_res Hi, my name is Bhavya. Pack my box with five dozen liquor chucks. Cliff chucks. Quills. Melts. Before the match. Crazy, fetri. Bought a very expensive quest.
+S37_fat Hello, my name is Bhavya. I packed my box with five dozen liquor jugs to look jocks, gris, mints for the match. Crazy fit trip bought for very expensive choice.
+S38_res Hello, my name is Guru. Pack my box with five dozen liquor jugs, glib jocks, quiz dims before the match, crazy Frederick bought a very expensive jewel.
+S38_fat Hello, my name is Guru, back my box with Fyodorin and Kajokz. Glibjox quiz nims before the match. Crazy Frederick bought a very expensive jewel.
+S39_res Hello, my name is Inlej Goswami. Tack my box with five dozen liquor jugs. Glib jugs quiz, named before the match. Crazy Fadrick bought a very expensive joint.
+S39_fat Back my box, West 5 ,000 Lika Jax, Glib Jog Squiz, names before the match, KZ Frederick, bought a very expensive journal.
+S40_res Hello, my name is Priyil. Pack my box with five dozen liquor jugs, flip jocks, quill nymphs before the match. Crazy Frederick bought a very expensive jewel.
+S40_fat Hello, my name is Priyel, pack my box with 5 dozen liquor jugs, clip jugs, quiz names before the match. Crazy Frederick got a very expensive jewel.
+S41_res Hello, my name is Pratyush Patwal. Pack my box with 5 dozen liquor jugs, glib jogs, poise nims before the match. Crazy Frederick bought a very expensive jewel.
+S41_fat Hello, my name is Prakish Patwal, back my box with 5 dozen liquor jogs, bleep jogs, curious names before the match. Crazy Frederick bought a very expensive gel.
+S42_res Hi, my name is Sagar Verma, pack my box with 5 dozen Likert Jax, Glib Jax quizzed names before the match, Crazy Frederick bought a very expensive jewel.
+S42_fat Hello my name is Sagar Verma. Pack my box with 5 dozen liquor jugs. Glib jocks quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S43_res Hi, my name is Preeti. Pack my box with 5 dozen liquor jerks, glib jocks, quiz nims before the match. Crazy Frederick bought a very expensive drill.
+S43_fat Hi my name is Preeti, packed my box with five dozen liquor jocks, glib jocks, quiz, nymphs before the match. Crazy Frederick bought a very expensive jewel.
+S44_res Hello, my name is Anurhav. Pack my box with 5 ,000 Liga Jokes. Leave jocks quick, nims before the match. Crazy, dead brick, daughter, expensive wheel.
+S44_fat Hello, my name is Anuha, back my walks with five dozen digger jocks, glade jocks quick and ends before the match, crazy fat rig brought a very expensive jock.
+S45_res Hello, my name is Rajni, packed my box with a 5 dozen of liquor jug, clicked Jock's quick nims before the match, Crazy Frederick brought a very expensive joel.
+S45_fat Hello, my name is Rajni. Pack my box with 5 dozen of Laker Jokes. Clip jocks quick nymphs before the match. Crazy Frederick bought a very expensive jewels.
+S46_res Hi my name is Samriti, packed my box with 5 dozen liquor jars, glib jocks, quiz nims before the match Crazy Frederick bought a very expensive jewel
+S46_fat Hi, my name is Samrithdeep. Pack my box with five dozen liquor charts, glib jocks, quiz names before the match, crazy frederick bottle, very expensive jewel.
+S47_res Hi, my name is Pritish Tung. Pack my box with 5 dozen liquor zerks. Glip jocks, squeeze nims before the match. Crazy Frederick brought a very expensive jule.
+S47_fat Hi, my name is Pritista. Pack my box with 5 dozen liquid jerks. Clear jerks caused nims before the match. Crazy Frederick bought a very expensive jewelry.
+S48_res Hi, my name is Mumaka, packed my box with 5 dozen liquor jugs, clip jugs, square snips before the match, crazy Frederick bought a very expensive jewel.
+S48_fat Hello, my name is Mumaka back my box with five dozen liquor jugs flip jobs quiz names before the match crazy Frederick bought a very expensive to
+S49_res Hi, my name is Harsh, pack my box with five dozen liquor jugs, glib jog quiz, nymph before the match, crazy fat rate, pot a very expensive jewel.
+S49_fat Hello, my name is Hars. Pat my box with 5 dozen Liquor Jokes. Clip Jokes Quiz named before the match. Crazy Fadrick bought a very expensive jewel.
+S50_res Hello, my name is Chia Grewal. Pack my box with 5 dozen liquor jogs, glib jogs, quick snips before the match Crazy Frederick bought a very expensive jewel.
+S50_fat Hi, my name is Jia, back my box with 5 ,000 liquor jugs, glib jog was lit before the match. Crazy Frederick bought a very expensive 12.
+S51_res Hi, my name is Amog. Pack my books with 5 dozen liquor jugs. Lip jokes, quiz nims before the match. Crazy Frederick bought a very expensive jewel.
+S51_fat Hello, my name is Amok, pack my books with 5 dozen liquor jugs, glib jokes, quiz nymphs before the match. Crazy Frederick bought a very expensive drill.
+S52_res Hi, my name is Rupali, pack my box with 5 dozen liquor jugs, clip jugs, quiz, nymph before the mat, crazy Frederick water, very expensive jewel.
+S52_fat Hi, my name is Rupali. Pack my box with five dozen liquor jugs. Clip jugs newest nymphs before the match. Crazy Frederick bought a very expensive jewel.
+S53_res Hi, my name is Suhani. Beck my box with 5 ,000 Liquor Jocks, Glib Jocks Quiznams. Before the match, Crazy Frederick bought a very expensive drill.
+S53_fat Hi, my name is Suhani. Back my box with five dozen liquor, drugs, glub jogs, squares, nims, before the match. Crazy Frederick bought a very expensive jewel.
+S54_res Hi, my name is Srijan, packed my box with 5 dozen liquor jugs, glipped jugs, squeezed nymphs before the match, Crazy Frederick bought a very expensive jewel.
+S54_fat Hi, my name is Shrijan. I packed my box with 5 dozen liquor jocks and glipped jocks to his nymphs before the nudge. Crazy Frederick bought a very expensive jewel.
+S55_res Hi, my name is Tisha, pack my box with 5 dozen liquor jugs, glib jocks, squids, nymphs before the match, crazy Frederick bought a very expensive jewel.
+S55_fat Hi, my name is Trisha. I packed my box with five dozen liquor jugs, glib jobs, prisoners before the match. Crazy Frederick bought a very expensive jewel.
+S56_res Hello, my name is Dilawar. Back my box with 5 ,000 liquor jocks. Lick jocks quiz names before the match. Crazy. Great Rick bought a very expensive jock.
+S56_fat Hello, my name is Dilavar back my box with five dozen liquor jugs Lip jogs quiz numbs before the match crazy free tricks water very expensive trip
+S57_res Hello, my name is Ananta, pack my box with 5 dozen liquor jacks, glib jocks to his names before the match, crazy fedrake bought a very expensive jewel.
+S57_fat Hello, my name is Anantabh. I had my box with 5 dozen liquor jugs. Glib jugs go his names before the match. Crazy Frederick bought a very expensive jewel.
+S58_res Hello, my name is Mohit. Pack my box with 5 dozen liquor jugs. Glib jocks, quiz namps, before match. Crazy, fat drink, bought a very expensive jugs.
+S58_fat Hi, my name is Mohit. Pack my box with five dozen liquor jugs, lip jogs, quiz, naps before the match. Crazy Fadrick bought a very expensive job.
+S59_res Hi, my name is mank Packed my box with five dozen liquid jugs Glib jocks with nymphs before the match Crazy Frederick bought a very expensive jewel
+S59_fat Hi, my name is Mank, packed my box with 5 dozen deco jugs, glib jogs quiz nims before the match, Crazy Frederick bought a very expensive jewel.
+S60_res Hi my name is Shoure, back my box with five dozen liquor jugs, glib jocks, who is nimsu for the match, Crazy Frederick bought a very expensive jewel.
+S60_fat Hi my name is Shohre, pack my box with five dozen liquor jugs, clip jocks, quiz nims before the match, crazy Frederick, bought a very expensive jewel.
+S61_res Hello, my name is Akshat Jain. Back my box with 5 dozen liquid jugs, clip jocks, quiz nims before the match, crazy Frederick bought a very expensive julie.
+S61_fat Hi, my name is Akshay Jain, sack my box with 5 dozen liquor jugs, flipchops, quiz, nims before the match. Crazy Frederick bought a very expensive joke.
+S62_res Hello, my name is Anurag Tiwari, pack my box with 5 dozen liquor jugs, glip jogs, quiz nymphs before the match, crazy Frederick bought a very expensive jewel.
+S62_fat Hello, my name is Anurag Tiwari, pack my box with 5 dozen liquor jugs, glyg jokes, quiz names before the match, crazy Frederick Borta, very expensive jewel.
+S63_res Hello, my name is Karthik Mishra, packed by box with five designated jugs, glib jocks, quiz names before the match, Quasi Frederick brought a very expensive jewel.
+S63_fat Hello, my name is Karthik Mishra, packed my box with fibres and liquor jugs, glib jocks, squares, numbs, numbs before the match, crazy Frederick Potter, very expensive jewel.
+S64_res Hello, my name is Anushka, pack my box with five dozen liquor jugs, glib jocks, quills nims before the match, crazy Frederick Potaway expensive joule.
+S64_fat Hello, my name is Anushka. Pat my box with five dozen liquor jugs. Live jogs quiz names before the match. Crazy Frederick bought a very expensive jewel.
+S65_res Hello, my name is Suhani, packed my box with 5 dozen liquor jars, glib jocks, quiz nims before the match, Crazy Frederick bought a very expensive jewel.
+S65_fat Hello, my name is Swahani. Pack my box with 5 dozen liquor jugs. Glib jokes or snips before the match. Crazy Frederick bought a very expensive drill.
+S66_res Hi, my name is Gaurav. Pack my box with 5 dozen liquor jugs. Glib jogs quiz nims before the match. Crazy Frederick bought a very expensive jewel.
+S66_fat Hi, my name is Gaurav, I packed my box with 5 dozen liquor jogs, glib jogs quiz names before the match. Crazy Frederick bought a very expensive jewel.
+Transcripts cached; fill in PANGRAMS and re-run.

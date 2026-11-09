@@ -1,0 +1,26 @@
+feature,normalisation,protocol,level,true_rested_pred_rested,true_rested_pred_fatigued,true_fatigued_pred_rested,true_fatigued_pred_fatigued
+ecapa,none,loso,segment,167,114,92,240
+ecapa,none,loso,utterance,40,26,18,48
+ecapa,none,random_split,segment,258,23,21,311
+ecapa,none,random_split,utterance,63,3,3,63
+ecapa,rested_baseline,loso,segment,279,2,18,314
+ecapa,rested_baseline,loso,utterance,66,0,3,63
+ecapa,rested_baseline,random_split,segment,276,5,10,322
+ecapa,rested_baseline,random_split,utterance,65,1,2,64
+wavlm,none,loso,segment,205,76,53,279
+wavlm,none,loso,utterance,53,13,13,53
+wavlm,none,random_split,segment,231,50,44,288
+wavlm,none,random_split,utterance,59,7,6,60
+wavlm,rested_baseline,loso,segment,273,8,47,285
+wavlm,rested_baseline,loso,utterance,65,1,8,58
+wavlm,rested_baseline,random_split,segment,277,4,33,299
+wavlm,rested_baseline,random_split,utterance,65,1,4,62
+egemaps,none,loso,segment,152,129,103,229
+egemaps,none,loso,utterance,39,27,20,46
+egemaps,none,random_split,segment,221,60,64,268
+egemaps,none,random_split,utterance,59,7,10,56
+egemaps,rested_baseline,loso,segment,256,25,31,301
+egemaps,rested_baseline,loso,utterance,63,3,4,62
+egemaps,rested_baseline,random_split,segment,271,10,29,303
+egemaps,rested_baseline,random_split,utterance,64,2,2,64
+speech_duration (supplementary),none,loso,utterance,50,16,18,48
